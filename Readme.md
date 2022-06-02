@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&center=true&lines=ROAD+TO+BE+THE+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&center=false&lines=ROAD+TO+BE+THE+DEVELOPER)](https://git.io/typing-svg)
 <br/>
 <br/>
 <body>
