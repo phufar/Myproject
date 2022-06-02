@@ -1,6 +1,4 @@
-<a align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uzmigdlaj7ehsmkq5zwjrbm3i&cover_image=true&theme=novatorem&bar_color=1ae084&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</a>
 <br/> 
 <br/>
 <br/>
@@ -8,5 +6,5 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;"><br>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="max-width: 100%;">
+  <img src="MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="max-width: 100%;">
 </p>
