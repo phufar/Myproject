@@ -15,9 +15,12 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;"><br>
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
-<p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&center=false&lines=MY+DISCORD+PROFILE)](https://git.io/typing-svg)
-<img src="https://dcbadge.vercel.app/api/shield/254256688696131584" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&lines=MY+DISCORD+PROFILE)](https://git.io/typing-svg)
+
+
+<p>
+
+    ![](https://dcbadge.vercel.app/api/shield/254256688696131584)
   
 </p>
