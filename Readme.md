@@ -16,5 +16,8 @@
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <p>
-  <img src="https://dcbadge.vercel.app/api/shield/254256688696131584" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&center=false&lines=MY+DISCORD+PROFILE)](https://git.io/typing-svg)
+<img src="https://dcbadge.vercel.app/api/shield/254256688696131584" />
+
+  
 </p>
