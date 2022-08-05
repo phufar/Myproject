@@ -15,3 +15,6 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;"><br>
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
+<p>
+  ![](https://dcbadge.vercel.app/api/shield/254256688696131584)
+</p>
